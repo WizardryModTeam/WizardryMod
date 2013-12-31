@@ -20,7 +20,7 @@ To set up eclipse with github:
 -Select finish (or next, dont remember now.)  
 -Finally, copy everything back from the folder you created to your forge folder. Now go back to eclipse, right click on forge and click refresh. No error should pop up this time.  
 -It is now set up.  
-How tu use:  
+How to use:  
 -Just code normaly. When you want to commit anything, right click "forge[master]" in your repositories and select commit. Tipe in the changes you made (Type the least possible) and hit commit and push.  
 -You will now what to do. Make sure you remember your master password.  
 -I'll give you more information latter on the chat.    
