@@ -1,7 +1,7 @@
 WizardryMod
 ===========
 To set up eclipse with github:
--Open eclipse
+-Open eclipse\n
 -Click help-Install New Software
 -In the "Work With" box paste this: http://download.eclipse.org/egit/github/updates-nightly/
 -Click the "Select All" button.
