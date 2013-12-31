@@ -7,7 +7,7 @@ public class Main {
 
  @EventHandler
  public void Load(FMLPreInitializationEvent event){
-  System.out.println("testing 123");
+  System.out.println("testing");
   }
 
 }
