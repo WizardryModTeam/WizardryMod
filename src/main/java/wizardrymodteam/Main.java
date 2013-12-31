@@ -7,6 +7,7 @@ public class Main {
 
 	@EventHandler
 	public void Load(FMLPreInitializationEvent event) {
+		
 	}
 
 }
