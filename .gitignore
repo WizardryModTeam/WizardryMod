@@ -12,6 +12,7 @@ gradle/
 mcp/
 .gradle/
 .settings/
+logs/
 build.gradle
 CREDITS-fml.txt
 forge-1.7.2-10.12.0.977-changelog.txt
