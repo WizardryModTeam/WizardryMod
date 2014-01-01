@@ -9,6 +9,7 @@ public class Main {
 
 	@EventHandler
 	public void Load(FMLPreInitializationEvent event) {
+		System.out.println("test");
 		WItems.addItems();
 	}
 
